@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# swe-testing-assignment-
-Applied System Software
-=======
 # Quick-Calc
 
 Quick-Calc is a lightweight command-line calculator application written in Python. It supports the four fundamental arithmetic operations — addition, subtraction, multiplication, and division — plus a clear/reset function. The project was built to demonstrate professional software development practices, including a structured testing strategy, semantic versioning, and conventional Git commit history.
@@ -102,4 +98,3 @@ swe-testing-assignment/
 ## Version History
 
 See [Releases](../../releases) for the full changelog. The current stable release is **v1.0.0**.
->>>>>>> 2b8f467 (chore: initialize repository with Python gitignore and README)
